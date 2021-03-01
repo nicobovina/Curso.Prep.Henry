@@ -1,0 +1,5 @@
+Se dice variables al espacio donde se almacena algo (un dato, una función, una palabra, un numero, etc). Por ejemplo que creo una variable que se llama "nombre" y en esta variable (espacio) almaceno un nombre cualquiera como 'Nico' por ejemplo. Entonces ahora "nombre" va a tener dentro suyo a 'Nico'.
+String es un conjunto de caracteres (letras por ejemplo, aunque no únicamente letras puede ser).
+Las funciones son un conjunto de operaciones-instrucciones que tienen un objetivo definido. En algunos casos se les da algo (argumentos) a las funciones para que hagan algo con ellos y devuelven algo (return) (relacionado al objetivo que se les definió).
+Las declaraciones if se las llama condicionales. Esto significa que si se plantea una condición y ésta se cumple, se realizan ciertas instrucciones. Pueden ser planteadas múltiples condiciones. En caso que no se cumpla ninguna de las condiciones planteadas, se define lo que se debe devolver.
+Los valores booleanos se les llama a el valor de verdad de algo. Este puede ser verdadero (true) o falso (false).
