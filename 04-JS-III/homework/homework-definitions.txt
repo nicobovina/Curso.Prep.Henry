@@ -1,0 +1,1 @@
+Se denomina array a una variable que agrupa un conjunto de 'n' elementos (los elementos pueden o no ser del mismo tipo).

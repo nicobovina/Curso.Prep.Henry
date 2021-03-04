@@ -1,13 +1,9 @@
-En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
-for
-&&, ||, !
-
 La sentencia 'for' se utiliza para realizar un bucle de operaciones, evaluando una condición inicial y realizando las operaciones que se encuentran dentro del bucle hasta que se deje de cumplir la condición. Su estructura suele ser: 
 for (contador; condición; incremento del contador){
     operaciones,
 } 
 
-El &&, ||, ! se los considera operadores lógicos, donde se evaluan dos expresiones y devuelven un valor de verdad, el cual puede ser true o false. 
+El &&, ||, ! se los considera operadores lógicos, donde se evaluan expresiones y devuelven un valor de verdad, el cual puede ser true o false. 
 El && es una operación AND y el resultado es true si y solo si el valor de las expresiones a evaluar son todas true. 
 El || es una operación OR y el resultado es false si y solo si el valor de todas las expresiones a evaluar son false.
 El ! es una operación NOT y su resultado es equivalente al opuesto del valor la expresión evaluada.
