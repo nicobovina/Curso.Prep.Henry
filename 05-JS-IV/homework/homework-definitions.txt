@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+Se llama objetos a un conjunto de pares compuestos por una propiedad y un valor a esa propiedad.
+Las propiedades son variables pertenecientes a un objeto, a las cuales se pueden acceder del mismo modo que se puede acceder a un elemento de un arreglo, con la diferencia que el índice que se utiliza para acceder es el nombre de la propiedad.
+
+Se le dice métodos a las funciones que se encuentran declaradas en el contexto de definición de un objeto.
+
+El bucle for...in se utiliza para poder operar sobre todos los pares propiedad-valor de un objeto. Su sintaxis es:
+for (let variable in objeto){
+    operaciones;
+}
+
+donde se utiliza a variable como un iterador de las claves. En otras palabras, variable representará todas las clave (nombre de propiedades) del objeto a recorrer.
+
+Existen dos formas de accede a las propiedades del objeto: 1) La notación de puntos (Dot notation) cuya sintaxis es objeto.propiedad. 2) La notación de corchetes (Backet notation) cuya sintaxis es objeto[propiedad].
